@@ -1,0 +1,12 @@
+.icon{
+    width: 100%;
+}
+
+.imagemUsuario{
+    border-radius: 50%;
+}
+
+.dadosUsuario{
+   line-height: 0.2;
+   padding-top: 10px;
+}
